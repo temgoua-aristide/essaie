@@ -1,0 +1,198 @@
+body
+{
+	text-align: center;
+	margin: 0px
+
+	}
+div#entete
+{
+	height: 110px;
+	background-color:#707070;
+	}
+div#logo img {
+	float: left;
+	width:10%;
+	height:110px;
+	padding-left: 50px;
+	}
+div#recherchegoogle{
+	float: left;
+	width:20%;
+	height:40px;
+	padding:20px 10px 20px 50px;
+	}
+div#entetecontact div{
+	float: left;
+	width:50%;
+	height:80px;
+	padding:10px 10px 10px 0px;
+	}
+div.blocsocial {
+	float: left;
+	width:50%;
+	height:200px;
+	background-color:#707070;
+	text-align: center;
+	}
+div#menu
+{
+	float: left;
+	width: 20%;
+	background-color:#707070;
+	height: 1300px;
+	}
+div#contenu
+{display: block;
+	float: left;
+	width: 80%;
+	height:1300px;
+	background-color:#D8E3E9;
+
+	}	
+div#piedpage
+{
+	clear:both;
+	display: block;
+	}	
+div.bloccontact {
+	float: left;
+	width:50%;
+	height:200px;
+	background-color:#707070;
+	text-align: center;
+	}
+div.blocsocial {
+	float: left;
+	width:50%;
+	height:200px;
+	background-color:#707070;
+	text-align: center;
+	}
+p.titre
+{
+	color: #cba858;
+	font-size: 1.2rem;
+	font-family: arial;
+	text-align: center;
+	}	
+ul#titreentete
+{
+	list-style-type: none;
+	}
+ul#titreentete li
+{
+	float: right;
+	padding: 25px 15px 25px 10px;
+	color: #cba858;
+	font-size: 1.5rem; 
+	
+	}	
+ul#titremenu
+{
+	list-style-type: none;
+	padding-left: 0px;
+	}	
+ul#titremenu li
+{
+	padding: 30px 0px 30px 0px;
+	font-size: 1.2rem;
+	color: green;
+	
+	}	
+h1
+{margin: 0px;
+	padding: 20px 100px 10px 100px;
+	font-size: 2rem;
+	color: green;
+	text-align: center;
+	
+	}	
+h3
+{margin: 0px;
+	padding: 0px 200px 10px 200px;
+	font-size: 1.2rem;
+	color: #235F1F;
+	text-align: center;
+	
+	}	
+h5
+{
+	margin:0px;
+	padding: 0px 0px 0px 0px;
+	font-size: 1rem;
+	color: green;
+	text-align: left;
+	}	
+div#contenuimage img
+{
+	margin:0px 100px 0px 100px;
+	padding: 0px 100px 0px 100px;
+	
+	}
+/* Bordered form */
+form {
+  border: 3px solid #f1f1f1;
+  width: 60%;float: center;
+  margin:auto;
+
+}	
+/* largeur des inputs */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+/* mettre un style sur tous bouttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+/* ajouter a hover effect pour les bouttons */
+button:hover {
+  opacity: 0.8;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+/* Centrer l'image */
+.imgcontainer {
+  text-align: center;
+  margin: 12px 0 12px 0;
+}
+
+/* l'image */
+img.avatar {
+  width: 30%;
+  border-radius: 30%;
+}
+
+/* ajouter le padding aux containers */
+.container {
+  padding: 10px;
+}
+
+/* The "Forgot password" text */
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+h4
+{
+  margin: 0px;
+}
+
+
+
